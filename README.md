@@ -15,6 +15,7 @@ The tasks for this week were solving a theory task on probability distributions 
 
 Week 2,3:
 These two weeks invloved our first actual project in RL implementing everything we learnt until then. We familiarised ourselves with openAIgym and watched lectures 3,4,5,6 of david silver's lecture series to know all the different methids we can use to solve a game.There were 4 problems out of which we had to solve atleast 1, the games were Taxi,CartPole,MountainCar and LunarLander. We had to submit an ipynb file with the code and play with different parameters to see which setting is most optimised for learning.
+Out of the 4 problems I have solved 3, Taxi,CartPole and MountainCar and have uploaded the files SOC RL w2 taxi-Monte Carlo.ipynb,SOC Week2,3 RL Taxi TD(0).ipynb,CartPole -Q learning.ipynb and MountainCar-Qlearning.ipynb .
 
 Week 4,5,6:
 After learning about function approximation in lecture 6 of daivd silver's lecture series we proceed to learn about neural networks and how gradient descent works using 3b1b's youtube playlist on neural networks.We also continued watching Lec 7,8,9,10 of the lecture series to learn policy gradients and a number of other concepts which we would need in order to solve our final problem(street fighter 2).
